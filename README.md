@@ -6,8 +6,8 @@
 # 📊GitHub Stats :
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tvantuan911&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvantuan911&theme=tokyonight&hide_border=false&include_all_commits=false&layout=compact" alt="Top Languages" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tvantuan911&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 200px; max-width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvantuan911&theme=tokyonight&hide_border=false&include_all_commits=false&layout=compact" alt="Top Languages" style="height: 200px; max-width: 100%">
 </div>
 
 ---
